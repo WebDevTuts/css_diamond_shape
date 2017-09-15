@@ -53,3 +53,11 @@ h1 {
   border-left: 75px solid transparent;
   border-bottom: 100px solid #1976d2;
 }
+
+.four {
+  width: 0;
+  height: 0;
+  border-top: 150px solid #0d47a1;
+  border-right: 150px solid transparent;
+  border-left: 150px solid transparent;
+}
