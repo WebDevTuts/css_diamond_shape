@@ -11,3 +11,13 @@
   height: 100vh;
   background: #00bcd4;
 }
+
+h1 {
+  background: transparent;
+  color: #e0f7fa;
+  padding: 20px;
+  margin: 30px;
+  border: 3px solid #e0f7fa;
+  border-radius: 5px;
+  box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
+}
